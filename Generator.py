@@ -39,5 +39,6 @@ people = people_generator(1000000)
 t2 = time.clock()
 
 
+
 print("Memory (After): {}Mb".format(mem_profile.memory_usage_resource()))
 print('Total {} seconds'.format(t2-t1))
