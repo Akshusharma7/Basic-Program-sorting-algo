@@ -3,6 +3,7 @@ import random
 import time
 
 name = ['John', 'Corey', 'Adam','Steve','Rick', 'Thomas']
+
 majors = ['Math','Engineering','CompSci','Arts','Business']
 
 print("Memory (Before): {}Mb".format(mem_profile.memory_usage_resource()))
