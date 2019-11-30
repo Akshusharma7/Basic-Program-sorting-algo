@@ -32,6 +32,7 @@ t1 = time.clock()
 people = people_list(1000000)
 t2 = time.clock()
 
+
 #Using Generator
 t1 = time.clock()
 people = people_generator(1000000)
