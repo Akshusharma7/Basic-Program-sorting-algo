@@ -14,3 +14,5 @@ for row in range(1,coins):
     else:
         break
 print("Possible row is : ",row-1 )
+
+
