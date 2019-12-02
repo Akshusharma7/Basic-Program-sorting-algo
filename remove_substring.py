@@ -1,7 +1,6 @@
 #Remove the substring from the main string and print the remaining string as the output in form of stingle string
 
 
-
 string = "I am using HackerRank to improve programming"
 sub = "am HackerRank to improve"
 
