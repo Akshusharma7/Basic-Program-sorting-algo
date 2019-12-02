@@ -1,4 +1,5 @@
-
+#Even word count from sting
+#Find the word with maximum even length from the given string and print the word as the output.
 
 
 
@@ -16,5 +17,8 @@ for i in range(len(string_len)):
 print("Even : ",even)
 index= string_len.index(even)
 print("Word is : ", string_arr[index])
+
+#OUTPUT
+# haveaniceday
 
 
