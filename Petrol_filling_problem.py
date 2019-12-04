@@ -1,15 +1,16 @@
 
-
+#Petrol felling problem in Facebook interview. 
+#Find the node from which you start the trip and complete it without shortage of petrol.
 
 
 
 n = int(input("Enter number of Petrol pump : "))
 print("Enter Petrol array")
 petrol = [int(input())  for i in range(n)]
-print(petrol)
+#print(petrol)
 print("Enter distance array")
 distance= [int(input())  for i in range(n)]
-print(distance)
+#print(distance)
 
 #---------LOGIC-----------------
 
@@ -36,3 +37,5 @@ def petrol_filling(petrol, distance,n):
 ans = petrol_filling(petrol,distance,n)
 
 print("Index of Petrol is :",ans)
+
+
