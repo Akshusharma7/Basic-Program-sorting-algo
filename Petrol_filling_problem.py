@@ -34,8 +34,8 @@ def petrol_filling(petrol, distance,n):
     return start
 
 
-ans = petrol_filling(petrol,distance,n)
+obj = petrol_filling(petrol,distance,n)
 
-print("Index of Petrol is :",ans)
+print("Index of Petrol is :",obj)
 
 
