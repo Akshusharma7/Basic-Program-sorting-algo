@@ -1,6 +1,6 @@
 
-#Petrol felling problem in Facebook interview. 
-#Find the node from which you start the trip and complete it without shortage of petrol.
+#Petrol filling problem in Facebook interview. 
+#Find the node from which you start the trip and complete it without shortage of petrol. time complexity should be BIG O of N
 
 
 
