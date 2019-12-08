@@ -14,7 +14,6 @@ distance= [int(input())  for i in range(n)]
 
 
 #---------LOGIC-----------------
-
 def petrol_filling(petrol, distance,n):
     total = 0
     diff = 0
