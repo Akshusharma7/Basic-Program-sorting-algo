@@ -14,6 +14,7 @@ for i in range(len(string_len)):
     if string_len[i]%2 == 0:
         if string_len[i] > even:
             even = string_len[i]
+            
 print("Even : ",even)
 index= string_len.index(even)
 print("Word is : ", string_arr[index])
