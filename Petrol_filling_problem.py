@@ -9,6 +9,7 @@ print("Enter Petrol array")
 petrol = [int(input())  for i in range(n)]
 #print(petrol)
 print("Enter distance array")
+
 distance= [int(input())  for i in range(n)]
 #print(distance)
 
