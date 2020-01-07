@@ -20,3 +20,14 @@ print(c2(4))
 > The decorator function is prefixed with @ symbol and written above the function definition.
 '''
 
+def outer(func):
+    def inner():
+        print("Accessing :", 
+                  func.__name__)
+        return func()
+    return inner
+def greet():
+   print('Hello!')
+wish = outer(greet)
+wish()
+
