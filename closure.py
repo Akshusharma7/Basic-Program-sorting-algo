@@ -32,3 +32,19 @@ def greet():
 wish = outer(greet)
 wish()
 
+
+'''
+In Python, decorating a function can also be achieved by writing decorator function name, prefixed with @ symbol, just above the function to be decorated.
+'''
+
+def outer(func):
+    def inner():
+        print("Accessing :", 
+                func.__name__)
+        return func()
+    return inner
+@outer
+def greet():
+    return 'Hello!'
+greet()
+
