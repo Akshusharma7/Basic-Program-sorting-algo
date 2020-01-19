@@ -35,6 +35,7 @@ def petrol_filling(petrol, distance,n):
 
 #Create an object
 obj = petrol_filling(petrol,distance,n)
+
 print("Index of Petrol is :",obj)
 
 
