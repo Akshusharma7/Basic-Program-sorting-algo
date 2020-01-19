@@ -17,8 +17,7 @@ for ind in range(len(sub_arr)):
 print("OUTPUT 1:")
 for word in string_arr:
     print(word)
-    
-    
+        
 print("OUTPUT 2:")
 out = ' '.join(string_arr)
 print(out)
