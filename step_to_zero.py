@@ -23,4 +23,4 @@ def step_to_zero(s):
     return count
 
 step_required = step_to_zero("011100") #28
-print(step_required)
+print(step_required) #OUTPUT : 7
