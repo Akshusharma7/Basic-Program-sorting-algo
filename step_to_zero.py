@@ -1,3 +1,8 @@
+#define a function if number is Even then divide by 2 else subtract by 1. continue the process till number become 0. 
+#finally count the steps/iteration taken to become ZERO.
+#Input number is in form of binary string
+
+
 def binary_to_decimal(s):
     dec = 0
     for i,x in enumerate(s[::-1]):
