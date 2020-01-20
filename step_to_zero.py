@@ -13,7 +13,7 @@ def binary_to_decimal(s):
 
 def step_to_zero(s):
     count = 0
-    n = binary_to_decimal(s)
+    n = binary_to_decimal(s)#Calling binary to decimal function to get number
     while n>0:
         if n%2==0:
             n = n//2
