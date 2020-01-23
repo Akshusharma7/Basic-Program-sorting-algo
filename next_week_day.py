@@ -1,3 +1,6 @@
+
+
+
 def week_num(day,n):
     week = ["mon","tue","wed","thu","fri","sat","sun"]
     ind = week.index(day)
