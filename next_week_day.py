@@ -6,7 +6,7 @@ def week_num(day,n):
     week = ["mon","tue","wed","thu","fri","sat","sun"]
     ind = week.index(day)
 
-    next_day = (n+ind)%7
+    next_day = (n+ind)%7 # remainder between o to 6
     days = week[next_day]
     return days
 
