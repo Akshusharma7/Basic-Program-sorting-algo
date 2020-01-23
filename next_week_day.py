@@ -1,5 +1,6 @@
 '''
 Write a function which take week day as an input and number between 0 to 6 and retuen the next days from the current days of the week
+example : if tuesday and 2 are input then output should be thrusday
 '''
 
 def week_num(day,n):
