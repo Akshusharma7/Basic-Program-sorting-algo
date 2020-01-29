@@ -4,7 +4,6 @@ import time
 
 name = ['John', 'Corey', 'Adam','Steve','Rick', 'Thomas']
 
-
 majors = ['Math','Engineering','CompSci','Arts','Business']
 
 
