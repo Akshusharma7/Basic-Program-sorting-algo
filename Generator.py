@@ -27,6 +27,7 @@ def people_generator(num_people):
         
         yield person
 
+        
 #Run any one at a time to calculate the time difference.
 #Using List 
 t1 = time.clock()
