@@ -19,6 +19,7 @@ print("Even : ",even)
 index= string_len.index(even)
 print("Word is : ", string_arr[index])
 
+
 #OUTPUT
 # haveaniceday
 
