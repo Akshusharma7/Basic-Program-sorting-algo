@@ -10,6 +10,7 @@ string_len = [len(word) for word in string_arr]
 #string_arr[string_len.index(8)]
 
 
+
 even = 0
 for i in range(len(string_len)):
     if string_len[i]%2 == 0:
