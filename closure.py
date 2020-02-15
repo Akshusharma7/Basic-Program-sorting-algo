@@ -1,6 +1,7 @@
 '''
 In simplest terms, a Closure is a function returned by a higher order function, whose return value depends on the data associated with the higher order function.
 '''
+
 def multiple_of(x):
     def multiple(y):
         return x*y
