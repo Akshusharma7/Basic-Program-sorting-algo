@@ -19,6 +19,7 @@ def people_list(num_people):
         result.append(person)
         return result
 
+
     
 def people_generator(num_people):
     for i in range(num_people):
