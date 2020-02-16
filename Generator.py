@@ -8,6 +8,7 @@ majors = ['Math','Engineering','CompSci','Arts','Business']
 print("Memory (Before): {}Mb".format(mem_profile.memory_usage_resource()))
 
 
+
 def people_list(num_people):
     result = []
     for i in range(num_people):
