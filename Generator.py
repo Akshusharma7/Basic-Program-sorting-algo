@@ -2,6 +2,8 @@ import mem_profile
 import random
 import time
 
+
+
 name = ['John', 'Corey', 'Adam','Steve','Rick', 'Thomas']
 majors = ['Math','Engineering','CompSci','Arts','Business']
 
@@ -43,6 +45,7 @@ t2 = time.clock()
 t1 = time.clock()
 people = people_generator(1000000)
 t2 = time.clock()
+
 
 print("Memory (After): {}Mb".format(mem_profile.memory_usage_resource()))
 print('Total {} seconds'.format(t2-t1))
