@@ -47,5 +47,6 @@ def solve():
     input("More? ")
         
 
-
-   
+        
+##Calling the solver function:
+solve()
