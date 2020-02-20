@@ -29,8 +29,6 @@ def possible(y,x,n):
     return True
 
 
-
-
 ##Solver function
 
 def solve():
