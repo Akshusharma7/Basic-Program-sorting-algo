@@ -32,6 +32,7 @@ def possible(y,x,n):
 
 
 
+
 ##Solver function
 
 def solve():
