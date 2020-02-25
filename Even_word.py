@@ -2,7 +2,6 @@
 #Find the word with maximum even length from the given string and print the word as the output.
 
 
-
 string = "It is Pleasent day today haveaniceday"
 string_arr = string.split(' ')
 string_len = [len(word) for word in string_arr]
