@@ -1,3 +1,11 @@
+
+#Problem Statement
+#Suppose you have an array within the range of [1000,9999]. The main aim is to change the numbers in ascending order by changing one digit from every array element.
+#Input: arr[] = {5555, 4444, 3333, 2222, 1111}
+#Output: 1555 2444 3033 3222 4111
+
+
+
 # Python3 implementation of the approach 
 DIGITS = 4; MIN = 1000; MAX = 9999; 
 
