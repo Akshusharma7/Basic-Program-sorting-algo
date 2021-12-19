@@ -14,8 +14,6 @@ print("Enter distance array")
 distance= [int(input())  for i in range(n)]
 #print(distance)
 
-
-
 #---------LOGIC-----------------
 def petrol_filling(petrol, distance,n):
     total = 0
