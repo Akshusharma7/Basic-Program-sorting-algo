@@ -7,7 +7,6 @@ n = int(input("Enter number of Petrol pump : "))
 print("Enter Petrol array")
 
 
-
 petrol = [int(input())  for i in range(n)]
 #print(petrol)
 
