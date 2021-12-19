@@ -15,6 +15,7 @@ distance= [int(input())  for i in range(n)]
 #print(distance)
 
 
+
 #---------LOGIC-----------------
 def petrol_filling(petrol, distance,n):
     total = 0
@@ -39,6 +40,8 @@ def petrol_filling(petrol, distance,n):
 obj = petrol_filling(petrol,distance,n)
 
 print("Index of Petrol is :",obj)
+
+
 
 
 
