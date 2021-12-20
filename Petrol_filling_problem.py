@@ -41,4 +41,3 @@ print("Index of Petrol is :",obj)
 
 
 
-
