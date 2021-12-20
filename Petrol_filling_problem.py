@@ -40,3 +40,4 @@ obj = petrol_filling(petrol,distance,n)
 print("Index of Petrol is :",obj)
 
 
+
