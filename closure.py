@@ -12,6 +12,7 @@ print(c1(4))
 print(c2(4))
 
 
+
 '''
 > Decorators are evolved from the concept of closures.
 
