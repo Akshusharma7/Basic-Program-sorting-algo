@@ -23,7 +23,6 @@ print(c2(4))
 '''
 
 
-
 def outer(func):
     def inner():
         print("Accessing :", 
