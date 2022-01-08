@@ -24,5 +24,3 @@ print("Word is : ", string_arr[index])
 #OUTPUT
 # haveaniceday
 
-
-
