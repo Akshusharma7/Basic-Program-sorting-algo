@@ -52,7 +52,6 @@ int __name__ == "__main__":
         
         
         
-        
  ##Output of the code 
 
 [[5 3 4 6 7 8 9 1 2]
