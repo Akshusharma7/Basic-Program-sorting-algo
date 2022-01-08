@@ -49,8 +49,7 @@ def solve():
 ##Main function to start execution
 int __name__ == "__main__":
         solve()# Calling solver/solve function.
-        
-        
+          
         
  ##Output of the code 
 
