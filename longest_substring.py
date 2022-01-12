@@ -24,7 +24,7 @@ if __name__ == '__main__':
     out = longest_substring_with_k_distinct_characters(s,k)
     print(out)
 
-    
+   
 
     
 
