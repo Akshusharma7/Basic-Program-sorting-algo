@@ -23,3 +23,5 @@ if __name__ == '__main__':
     k = 2
     out = longest_substring_with_k_distinct_characters(s,k)
     print(out)
+
+    
